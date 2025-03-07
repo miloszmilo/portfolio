@@ -1,0 +1,4 @@
+- [ ] Install jest
+- [ ] Setup tests
+- [ ] Create minimal portfolio website
+- [ ] Optional "game" tab
